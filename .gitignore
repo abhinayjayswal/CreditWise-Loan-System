@@ -1,0 +1,13 @@
+# Dataset
+
+loan_approval_data.csv
+
+# Jupyter notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Python cache
+
+__pycache__/
+
+*.pyc
